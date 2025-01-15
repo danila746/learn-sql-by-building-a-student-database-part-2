@@ -175,3 +175,4 @@ ls --color=auto -l
 where ami
 whereami
 chmod 777 student_info.sh
+ls --color=auto -l
