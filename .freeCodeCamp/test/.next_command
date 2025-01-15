@@ -176,3 +176,4 @@ where ami
 whereami
 chmod 777 student_info.sh
 ls --color=auto -l
+./student_info.sh
