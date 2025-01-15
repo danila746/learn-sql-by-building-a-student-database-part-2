@@ -170,3 +170,8 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=students
 touch students_info.sh
 touch student_info.sh
+rm students_info.sh
+ls --color=auto -l
+where ami
+whereami
+chmod 777 student_info.sh
